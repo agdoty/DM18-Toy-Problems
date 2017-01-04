@@ -21,6 +21,14 @@ Functional Fibonacci: Write a function that generates a Fibonacci Sequence out t
 
 Fizz Buzz: Write a function that counts to 30, replacing values divisible by 3 with "Fizz", and values divisible by 5 with "Buzz".  If divisible by both 3 and 5, replace that value with "Fizz Buzz". https://repl.it/FAtW/1
 
+It's all in order: Take in an array of numbers, sort them in ascending order, then return the sorted array. https://repl.it/FAxh/1
+
+To the left, To the left: Take in a string and a number, add a number of zeroes to the left side of the string equal to the provided number. https://repl.it/FAy5/0
+
+Weaving Strings: Take in two strings containing numbers, add their numerical values, then return a string of the result. https://repl.it/FAyd/1
+
+Alpha Beta: Loop through a string and determine if there is an A and a B separated by exactly 3 characters. https://repl.it/FAzC/0
+
 ---
 ADVANCED TOY PROBLEMS
 ---
