@@ -15,12 +15,22 @@ Help Suzuki rake his garden: Given a string, replace all words in that string th
 
 Vowel Counter: Given a string, count and return the number of vowels in that string. https://repl.it/FAqp/0
 
+Country Club: Given a series of nested arrays, determine a membership status and return an array of strings: https://repl.it/FArW/1
+
+Functional Fibonacci: Write a function that generates a Fibonacci Sequence out to N places. https://repl.it/FAsh/1
+
+Fizz Buzz: Write a function that counts to 30, replacing values divisible by 3 with "Fizz", and values divisible by 5 with "Buzz".  If divisible by both 3 and 5, replace that value with "Fizz Buzz". https://repl.it/FAtW/1
+
 ---
 ADVANCED TOY PROBLEMS
 ---
 Cooking by the Book: Determine how many cakes a baker can make, given set requirements and available materials. https://repl.it/FAp9/0
 
 Mixed Messages: Given a jumbled string of words containing (ultimately) consecutive numbers, place the words in correct order, indicated by the number they contain. https://repl.it/FAqx/0
+
+Harshad Numbers: Given a number, determine if the number is a Harshad number based on a given set of requirements. https://repl.it/FAry/1
+
+Leaving the Nest: Given a series of nested objects, populate an array with the values denoted within. https://repl.it/FAsa/0
 
 ---
 UNCATEGORIZED TOY PROBLEMS
