@@ -9,7 +9,7 @@ Please mark any toy problems previously used in the current DM.
 ---
 BEGINNER TOY PROBLEMS
 ---
-~~String Disemvoweler: Remove all vowels from an input string. https://repl.it/FApE/0
+~~String Disemvoweler: Remove all vowels from an input string. https://repl.it/FApE/0 ~~
 
 Remove the Minimum: Remove the lowest value from an array of integers, then return the array without changing the order of the remaining numbers. https://repl.it/FApb/1
 
@@ -21,7 +21,7 @@ Country Club: Given a series of nested arrays, determine a membership status and
 
 Functional Fibonacci: Write a function that generates a Fibonacci Sequence out to N places. https://repl.it/FAsh/1
 
-~~Fizz Buzz: Write a function that counts to 30, replacing values divisible by 3 with "Fizz", and values divisible by 5 with "Buzz".  If divisible by both 3 and 5, replace that value with "Fizz Buzz". https://repl.it/FAtW/1
+~~Fizz Buzz: Write a function that counts to 30, replacing values divisible by 3 with "Fizz", and values divisible by 5 with "Buzz".  If divisible by both 3 and 5, replace that value with "Fizz Buzz". https://repl.it/FAtW/1 ~~
 
 It's all in order: Take in an array of numbers, sort them in ascending order, then return the sorted array. https://repl.it/FAxh/1
 
