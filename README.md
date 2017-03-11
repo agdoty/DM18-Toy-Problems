@@ -6,7 +6,7 @@ The toy problems below are separated by week, providing both a beginner and adva
 
 Also feel free to add any additional toy problems to this repo, under the "Miscellaneous" section, if you believe they would be good additions to the toy problems rotation.  Just be sure to provide a link to both a question page and a solutions page, in a similar format to the below.
 
-(The repl.it links below monitor versions via the number at the end of the URL.  If you make changes to any of the below, please update the provided URL to the most current version of the problem in the list below.)
+(The repl.it links below monitor versions via the number at the end of the URL.  If you make changes to any of the below, please update the provided URL to the most current version of the problem.)
 
 ---
 Week 1
