@@ -11,7 +11,7 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 ---
 Week 1
 ---
-Monday:
+*Monday:* <br /> 
 Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1 <br />
 Solution: https://repl.it/GQh4/1
 
