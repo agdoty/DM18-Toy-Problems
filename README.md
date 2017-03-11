@@ -1,47 +1,199 @@
 # DM18-Toy-Problems
 
-This repository is for the storage of and reference to sample toy problems to be used during the morning mentor workshops of DM18.
+This repository is for the storage of and reference to toy problems for use in DevMountain's morning toy problem workshops.
 
-Below you will find a list of toy problem titles, including a short description and/or a link to the problem itself.  We will attempt to the extent possible to separate the toy problems into "Beginner" and "Advanced" groupings, for ease of access.
+The toy problems below are separated by week, providing both a beginner and advanced option depending on the level of experience of your students.  We have also provided a link to solution pages (feel free to add any clever or unique solutions to these problems that you encounter).
 
-Please mark any toy problems previously used in the current DM.
+Also feel free to add any additional toy problems to this repo, under the "Miscellaneous" section, if you believe they would be good additions to the toy problems rotation.  Just be sure to provide a link to both a question page and a solutions page, in a similar format to the below.
 
----
-BEGINNER TOY PROBLEMS
----
-(USED DM-18) String Disemvoweler: Remove all vowels from an input string. https://repl.it/FApE/0
-
-Remove the Minimum: Remove the lowest value from an array of integers, then return the array without changing the order of the remaining numbers. https://repl.it/FApb/1
-
-Help Suzuki rake his garden: Given a string, replace all words in that string that are not "rock" or "gravel" with the word "gravel". https://repl.it/FAqc/0
-
-Vowel Counter: Given a string, count and return the number of vowels in that string. https://repl.it/FAqp/0
-
-Country Club: Given a series of nested arrays, determine a membership status and return an array of strings: https://repl.it/FArW/1
-
-Functional Fibonacci: Write a function that generates a Fibonacci Sequence out to N places. https://repl.it/FAsh/1
-
-(USED DM-18) Fizz Buzz: Write a function that counts to 30, replacing values divisible by 3 with "Fizz", and values divisible by 5 with "Buzz".  If divisible by both 3 and 5, replace that value with "Fizz Buzz". https://repl.it/FAtW/1
-
-It's all in order: Take in an array of numbers, sort them in ascending order, then return the sorted array. https://repl.it/FAxh/1
-
-To the left, To the left: Take in a string and a number, add a number of zeroes to the left side of the string equal to the provided number. https://repl.it/FAy5/0
-
-Weaving Strings: Take in two strings containing numbers, add their numerical values, then return a string of the result. https://repl.it/FAyd/1
-
-Alpha Beta: Loop through a string and determine if there is an A and a B separated by exactly 3 characters. https://repl.it/FAzC/0
+(The repl.it links below monitor versions via the number at the end of the URL.  If you make changes to any of the below, please update the provided URL to the most current version of the problem in the list below.)
 
 ---
-ADVANCED TOY PROBLEMS
+Week 1
 ---
-Cooking by the Book: Determine how many cakes a baker can make, given set requirements and available materials. https://repl.it/FAp9/0
+Monday:
+Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1
+Solution: https://repl.it/GQh4/1
 
-Mixed Messages: Given a jumbled string of words containing (ultimately) consecutive numbers, place the words in correct order, indicated by the number they contain. https://repl.it/FAqx/0
+Advanced Toy Problem: Use what you have (4) https://repl.it/GQfQ/0
+Solution: https://repl.it/GQfV/0
 
-Harshad Numbers: Given a number, determine if the number is a Harshad number based on a given set of requirements. https://repl.it/FAry/1
+Tuesday:
+Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1
+Solution: https://repl.it/GQiG/1
 
-Leaving the Nest: Given a series of nested objects, populate an array with the values denoted within. https://repl.it/FAsa/0
+Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1
+Solution: https://repl.it/GQeg/2
+
+Wednesday:
+Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2
+Solution: https://repl.it/GQhl/1
+
+Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0
+Solution: https://repl.it/GQby/1
+
+Thursday:
+Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1
+Solution: https://repl.it/GQgY/2
+
+Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0
+Solution: https://repl.it/GQaq/2
 
 ---
-UNCATEGORIZED TOY PROBLEMS
+Week 2
+---
+Monday:
+Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1
+Solution: https://repl.it/GQgA/2
+
+Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0
+Solution: https://repl.it/GQ7H/1
+
+Tuesday:
+Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0
+Solution: https://repl.it/GQe8/0
+
+Advanced Toy Problem:
+Solution:
+
+Wednesday:
+Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1
+Solution: https://repl.it/GQcF/1
+
+Advanced Toy Problem:
+Solution:
+
+Thursday:
+Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1
+Solution: https://repl.it/GQcu/1
+
+Advanced Toy Problem:
+Solution:
+
+---
+Week 3
+---
+Monday:
+Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0
+Solution: https://repl.it/GQcC/1
+
+Advanced Toy Problem:
+Solution:
+
+Tuesday:
+Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0
+Solution: https://repl.it/GQbf/1
+
+Advanced Toy Problem:
+Solution:
+
+Wednesday:
+Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0
+Solution: https://repl.it/GQal/1
+
+Advanced Toy Problem:
+Solution:
+
+Thursday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+---
+Week 4
+---
+Monday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Tuesday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Wednesday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Thursday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+---
+Week 5
+---
+Monday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Tuesday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Wednesday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Thursday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+---
+Week 6
+---
+Monday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Tuesday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Wednesday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+Thursday:
+Beginner Toy Problem:
+Solution:
+
+Advanced Toy Problem:
+Solution:
+
+---
+Miscellaneous Toy Problems
 ---
