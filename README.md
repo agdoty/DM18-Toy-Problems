@@ -11,35 +11,35 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 ---
 ## Week 1
 
-### Monday: <br /> 
+### Monday:
 Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1 <br />
 Solution: https://repl.it/GQh4/1
 
 Advanced Toy Problem: Use what you have (4) https://repl.it/GQfQ/0 <br />
 Solution: https://repl.it/GQfV/0
 
-### Tuesday: <br /> 
+### Tuesday:
 Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1 <br />
 Solution: https://repl.it/GQiG/1
 
 Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1 <br />
 Solution: https://repl.it/GQeg/2
 
-### Wednesday: <br /> 
+### Wednesday:
 Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2 <br />
 Solution: https://repl.it/GQhl/1
 
 Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0 <br />
 Solution: https://repl.it/GQby/1
 
-### Thursday: <br /> 
+### Thursday:
 Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1 <br />
 Solution: https://repl.it/GQgY/2
 
 Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0 <br />
 Solution: https://repl.it/GQaq/2
 
-### Friday: <br />
+### Friday:
 Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1 <br />
 Solution: https://repl.it/GQgA/2
 
