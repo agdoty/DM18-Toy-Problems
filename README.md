@@ -12,38 +12,38 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 ## Week 1
 
 ### Monday:
-Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1 <br />
+Beginner Toy Problem: Fizz Buzz (7) https://repl.it/GQg2/1
 Solution: https://repl.it/GQh4/1
 
-Advanced Toy Problem: Use what you have (4) https://repl.it/GQfQ/0 <br />
+Advanced Toy Problem: Use what you have (4) https://repl.it/GQfQ/0
 Solution: https://repl.it/GQfV/0
 
 ### Tuesday:
-Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1 <br />
+Beginner Toy Problem: Vowel Counter (7) https://repl.it/GQiF/1
 Solution: https://repl.it/GQiG/1
 
-Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1 <br />
+Advanced Toy Problem: Lowest Common Denominator (5) https://repl.it/GQea/1
 Solution: https://repl.it/GQeg/2
 
 ### Wednesday:
-Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2 <br />
+Beginner Toy Problem: Functional Fibonacci (7) https://repl.it/GQh8/2
 Solution: https://repl.it/GQhl/1
 
-Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0 <br />
+Advanced Toy Problem: Cooking by the Book (5) https://repl.it/GQbv/0
 Solution: https://repl.it/GQby/1
 
 ### Thursday:
-Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1 <br />
+Beginner Toy Problem: It's all in order (8) https://repl.it/GQgT/1
 Solution: https://repl.it/GQgY/2
 
-Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0 <br />
+Advanced Toy Problem: Unleash the Camels (5) https://repl.it/GQap/0
 Solution: https://repl.it/GQaq/2
 
 ### Friday:
-Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1 <br />
+Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1
 Solution: https://repl.it/GQgA/2
 
-Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
+Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0
 Solution: https://repl.it/GQ7H/1
 
 ---
@@ -53,15 +53,15 @@ Solution: https://repl.it/GQ7H/1
 Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0
 Solution: https://repl.it/GQe8/0
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Best Travel (5) https://repl.it/GZKr/1
+Solution: https://repl.it/GZKt/5
 
 ### Tuesday:
 Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1
 Solution: https://repl.it/GQcF/1
 
-Advanced Toy Problem:
-Solution:
+Advanced Toy Problem: Valid Parentheses (6) https://repl.it/GZYh/1
+Solution: https://repl.it/GZ8g/3
 
 ### Wednesday:
 Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1
