@@ -50,7 +50,7 @@ Solution: https://repl.it/GQ7H/1
 ### Week 2
 ---
 **Monday:** <br />
-Beginner Toy Problem: Find the nth number (5) https://repl.it/G8dd/0  <br />
+Beginner Toy Problem: Find the nth number https://repl.it/G8dd/0  <br />
 Solution:https://repl.it/G8dc/0
 
 Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
@@ -84,8 +84,8 @@ Week 3
 Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0 <br />
 Solution: https://repl.it/GQcC/1
 
-Advanced Toy Problem: https://repl.it/G88m/1<br />
-Solution: https://repl.it/G88l/0
+Advanced Toy Problem: <br />
+Solution: 
 
 **Tuesday:** <br />
 Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0 <br />
