@@ -47,30 +47,30 @@ Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
 Solution: https://repl.it/GQ7H/1
 
 ---
-Week 2
+### Week 2
 ---
-**Monday:** <br /> 
-Beginner Toy Problem: <br />
-Solution: 
+**Monday:** <br />
+Beginner Toy Problem: Find the nth number https://repl.it/G8dd/0  <br />
+Solution:https://repl.it/G8dc/0
 
 Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
 Solution: https://repl.it/GQ7H/1
 
-**Tuesday:** <br /> 
+**Tuesday:** <br />
 Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0 <br />
 Solution: https://repl.it/GQe8/0
+
+Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1<br />
+Solution:https://repl.it/G88l/0
+
+**Wednesday:** <br />
+Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1 <br />
+Solution: https://repl.it/GQcF/1
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Wednesday:** <br /> 
-Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1 <br />
-Solution: https://repl.it/GQcF/1
-
-Advanced Toy Problem: <br /> 
-Solution:
-
-**Thursday:** <br /> 
+**Thursday:** <br />
 Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1 <br />
 Solution: https://repl.it/GQcu/1
 
@@ -80,28 +80,28 @@ Solution:
 ---
 Week 3
 ---
-**Monday:** <br /> 
+**Monday:** <br />
 Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0 <br />
 Solution: https://repl.it/GQcC/1
 
 Advanced Toy Problem: <br />
-Solution:
+Solution: 
 
-**Tuesday:** <br /> 
+**Tuesday:** <br />
 Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0 <br />
 Solution: https://repl.it/GQbf/1
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Wednesday:** <br /> 
+**Wednesday:** <br />
 Beginner Toy Problem: Remove the Minimum (7) https://repl.it/GQ91/0 <br />
 Solution: https://repl.it/GQal/1
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Thursday:** <br /> 
+**Thursday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
@@ -111,28 +111,28 @@ Solution:
 ---
 Week 4
 ---
-**Monday:** <br /> 
+**Monday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Tuesday:** <br /> 
+**Tuesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Wednesday:** <br /> 
+**Wednesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Thursday:** <br /> 
+**Thursday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
@@ -142,28 +142,28 @@ Solution:
 ---
 Week 5
 ---
-**Monday:** <br /> 
+**Monday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Tuesday:** <br /> 
+**Tuesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Wednesday:** <br /> 
+**Wednesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Thursday:** <br /> 
+**Thursday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
@@ -173,28 +173,28 @@ Solution:
 ---
 Week 6
 ---
-**Monday:** <br /> 
+**Monday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Tuesday:** <br /> 
+**Tuesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Wednesday:** <br /> 
+**Wednesday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
 Advanced Toy Problem: <br />
 Solution:
 
-**Thursday:** <br /> 
+**Thursday:** <br />
 Beginner Toy Problem: <br />
 Solution:
 
