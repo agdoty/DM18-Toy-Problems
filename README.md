@@ -60,7 +60,7 @@ Solution: https://repl.it/GQ7H/1
 Beginner Toy Problem: Help Suzuki rake his garden (7) https://repl.it/GQeT/0 <br />
 Solution: https://repl.it/GQe8/0
 
-Advanced Toy Problem: Bubble Sort Algorithm (7) https://repl.it/G88m/1<br />
+Advanced Toy Problem: Bubble Sort Algorithm https://repl.it/G88m/1<br />
 Solution:https://repl.it/G88l/0
 
 **Wednesday:** <br />
