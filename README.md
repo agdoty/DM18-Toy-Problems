@@ -50,8 +50,8 @@ Solution: https://repl.it/GQ7H/1
 Week 2
 ---
 **Monday:** <br /> 
-Beginner Toy Problem: To the left, to the left (7) https://repl.it/GQfz/1 <br />
-Solution: https://repl.it/GQgA/2
+Beginner Toy Problem: <br />
+Solution: 
 
 Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
 Solution: https://repl.it/GQ7H/1
