@@ -89,7 +89,7 @@ Solution:
 
 **Tuesday:** <br />
 Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0 <br />
-Solution: https://repl.it/GQbf/1
+Solution: https://repl.it/GQbf/2
 
 Advanced Toy Problem: <br />
 Solution:
