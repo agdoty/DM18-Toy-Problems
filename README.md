@@ -68,14 +68,14 @@ Beginner Toy Problem: String Disemvoweler (7) https://repl.it/GQcE/1 <br />
 Solution: https://repl.it/GQcF/1
 
 Advanced Toy Problem: <br />
-Solution:
+Solution: 
 
 **Thursday:** <br />
 Beginner Toy Problem: Country Club (7) https://repl.it/GQcJ/1 <br />
 Solution: https://repl.it/GQcu/1
 
 Advanced Toy Problem: <br />
-Solution:
+Solution: 
 
 ---
 Week 3
@@ -84,8 +84,8 @@ Week 3
 Beginner Toy Problem: Weaving Strings (7) https://repl.it/GQcB/0 <br />
 Solution: https://repl.it/GQcC/1
 
-Advanced Toy Problem: <br />
-Solution: 
+Advanced Toy Problem: pigLatin (6, 5) https://repl.it/Gklr/3<br />
+Solution: https://repl.it/GknA/1
 
 **Tuesday:** <br />
 Beginner Toy Problem: Alpha Beta (7) https://repl.it/GQbb/0 <br />
