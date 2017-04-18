@@ -102,8 +102,8 @@ Advanced Toy Problem: <br />
 Solution:
 
 **Thursday:** <br />
-Beginner Toy Problem: <br />
-Solution:
+Beginner Toy Problem: Fold your way to the moon (7) https://repl.it/HO2Y/1 <br />
+Solution: https://repl.it/HO2a/2
 
 Advanced Toy Problem: <br />
 Solution:
