@@ -50,8 +50,8 @@ Solution: https://repl.it/GQ7H/1
 ### Week 2
 ---
 **Monday:** <br />
-Beginner Toy Problem: Find the nth number https://repl.it/G8dd/0  <br />
-Solution:https://repl.it/G8dc/0
+Beginner Toy Problem: Find the nth number https://repl.it/HQr2/0  <br />
+Solution: https://repl.it/G8dd/3
 
 Advanced Toy Problem: StringNumbers (5) https://repl.it/GQ7E/0 <br />
 Solution: https://repl.it/GQ7H/1
